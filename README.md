@@ -1,6 +1,6 @@
 ﻿# CarLane-Detection-UDacity
 
-[Video demo](https://www.youtube.com/watch?v=I71cHXfSWxw&feature=youtu.be)
+[Video demo from youtube](https://www.youtube.com/watch?v=I71cHXfSWxw&feature=youtu.be)
 
 ![png](./output/top.png)
 
@@ -17,16 +17,18 @@ Vehicle detection using these machine learning and computer vision techniques.
 
 ## Note
 
-First, you need to get training data(cars and not-cars). You can get car images from [GTI vehicle image database](http://www.gti.ssr.upm.es/data/Vehicle_database.html), [KITTI vision benchmark](http://www.cvlibs.net/datasets/kitti/)). And over 1500 images per each is good for this project.
+First, you need to get training data(cars and not-cars). You can get car images from [GTI vehicle image database](http://www.gti.ssr.upm.es/data/Vehicle_database.html), [KITTI vision benchmark](http://www.cvlibs.net/datasets/kitti/)). 
+And over 1500 images per each is good for this project.
+especially thare are some training dates in “ training-data” document 
 
 ## Dependencies
 
-* Python >= 3.4
+* Python >= 3.7
 
 ## Set up environment
 
 ```
-pip install -r requirements.txt
+pip install -r Runing-requirements.txt
 ```
 
 ## Run jupyter notebook
